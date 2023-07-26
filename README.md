@@ -50,6 +50,12 @@ python run.py
 
 
 
+Enter target's IP address : 127.0.0.1
+
+Enter target port number : 80
+                                                      Enter attack method (UDP or TCP) : TCP
+
+Enter duration of the attack (in seconds) : 30
 
 
 
