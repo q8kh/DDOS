@@ -45,6 +45,10 @@ cd DDOS
 
 
 
+
+
+
+
 python run.py
 
 
